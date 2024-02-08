@@ -40,4 +40,4 @@ Finally, we train two Judge models for truthfulness and informativenss classific
 ./scripts/train_judge.sh
 ```
 
-We have uploaded the final judge models to HuggingFace model hub. You can find the truthfulness model [here](https://huggingface.co/yizhongw/truthfulqa-truth-judge-llama2-7B) and the informativeness model [here](https://huggingface.co/yizhongw/truthfulqa-info-judge-llama2-7B).
+We have uploaded the final judge models to HuggingFace model hub. You can find the truthfulness model [here](https://huggingface.co/allenai/truthfulqa-truth-judge-llama2-7B) and the informativeness model [here](https://huggingface.co/allenai/truthfulqa-info-judge-llama2-7B).
